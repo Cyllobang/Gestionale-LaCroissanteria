@@ -14,7 +14,7 @@ import {
 } from 'lucide-react';
 
 // Components
-import { Dashboard } from './components/Dashboard';
+import { Dashboard } from './components/MainDashboard';
 import { Operations } from './components/Operations';
 import { BarList } from './components/BarList';
 import { ProductList } from './components/ProductList';
