@@ -1,0 +1,8 @@
+{
+  "name": "LaCroissanteria Manager",
+  "description": "Gestionale completo per la distribuzione notturna di paste: ordini, produzione, consegne e contabilità.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
